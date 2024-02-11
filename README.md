@@ -1,8 +1,1 @@
-ButtonManagerはボタンを押すとシーン遷移するコードです。
-EnemyBaseは敵の動きに関するソースコードであり、Cherry、Plum、WatermelonはEnemyBaseを継承しており、それぞれ異なる動きをするソースコードです。
-BossManagerはラスボスの動きに関係するソースコードです。
-EnemyBulletManagerとWaterMelonBulletは、敵の攻撃に関係するソースコードです。
-EnemyDeathAnimationは、敵が倒れた時のエフェクトに関係するソースコードです。
-PauseManagerは、一時停止をするソースコードです。
-SoundManagerは、効果音に関係するソースコードです。
-TextManagerは、画面上に表示されるUIに関係するソースコードです。
+
